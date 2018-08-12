@@ -1,5 +1,12 @@
 # Week 12
 
+### Days 83-85: August 10-12.
+
+**Today's Progress**: Keras package.
+
+**Thoughts** 
+- The last three days I taught Keras in R programming. Worked with text sequences, with LSTM. I worked with merging layers. The days were interesting and productive.
+
 ### Day 82: August 9, Thursday.
 
 **Today's Progress**: R and API.
